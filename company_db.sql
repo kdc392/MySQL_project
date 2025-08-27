@@ -76,7 +76,7 @@ INSERT INTO Department VALUES
 ("PMD", "Project Management Department");
 --
 -- EMPLOYEE table
---
+-- THESE ARE FAKE NAMES AND ADDRESSES
 INSERT INTO Employee VALUES
 (123, 29388475678, "Wendy Darling", "234 N Nowhere Dr", "F",
 "1970-12-12", 300000.00, "HRD", 123),
@@ -141,7 +141,7 @@ INSERT INTO Dependent VALUES
 ("Smee", "spouse", "N", "1075-12-19", 173),
 ("Nance", "parent", "N", "1958-10-17", 125);
 
-CREATE USER 'CS345'@'localhost' IDENTIFIED BY '6085743';
+CREATE USER 'CS345'@'localhost' IDENTIFIED BY 'me';
 
 GRANT ALL ON company_db TO 'CS345'@'localhost'; 
 --
