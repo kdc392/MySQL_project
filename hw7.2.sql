@@ -1,6 +1,6 @@
 --
 -- Homework 7.2: SQL-DML
--- @author: kristopher card, 6085743
+-- @author: kristopher card
 -- NAU, CS 345, Spring 2024
 --
 
